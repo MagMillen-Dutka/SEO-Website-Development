@@ -27,6 +27,7 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+
 ## Installation
 ```
 n/a
@@ -34,6 +35,7 @@ n/a
 ## Usage
 ```
 TBC
+
 ```
 ## Credits
 ```
@@ -44,3 +46,4 @@ n/a
 For licensing details please see "LICENSE" details within the repository.
 
 MIT License is used for this project.
+```
