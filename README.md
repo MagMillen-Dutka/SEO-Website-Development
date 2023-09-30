@@ -26,17 +26,21 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-
+```
 ## Installation
+```
 n/a
-
+```
 ## Usage
-
-
+```
+TBC
+```
 ## Credits
+```
 n/a
-
+```
 ## License
 For licensing details please see "LICENSE" details within the repository.
 
 MIT License is used for this project.
+```
