@@ -44,4 +44,3 @@ n/a
 For licensing details please see "LICENSE" details within the repository.
 
 MIT License is used for this project.
-```
