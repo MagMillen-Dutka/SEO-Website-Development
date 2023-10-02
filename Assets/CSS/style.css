@@ -6,7 +6,7 @@
 
 body {
     background-color: #d9dcd6;
-	max-width: 1200px; /*<-- added max width to help with constraints matching image given. -->*/
+	max-width: 1200px; 
 }
 
 .header {
