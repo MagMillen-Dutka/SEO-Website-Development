@@ -1,11 +1,28 @@
-# UBHM-01-HTML-Git-CSS-02-Challenge
 
-## Description
 
-The code written in index.html and style.css follows the main instructions and acceptance criteria as set out below. It is solving the problem of a non-accessible website which is not SEO-friendly.
+# SEO Website Development
+
+## Description:
+
+SEO is an important part of a website's functionality. It is very important to ensure a clean, functional, styled website is supports accessibility.
+
+This project example showcases my ability to understand the need for changes to image alt-text, as well as following basic principles of design with sequential conditioning through the website. 
+
+For example; All of the <h> tagged sections should run in order through the code - Starting at <h1> and ending at <h6>; Meaning all code flows smoothly.
+
+## Table of Contents:
+* [License](#license)
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Installation Process](#installation-process)
+* [Sources](#sources)
+* [Links](#links)
+* [Screenshots](#screenshots)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## User Story
-
 ```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
@@ -13,7 +30,6 @@ SO THAT our own site is optimized for search engines
 ```
 
 ## Acceptance Criteria
-
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -27,24 +43,23 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+## Installation Process
 
-## Installation
-```
-n/a
-```
-## Usage
-```
-Please find the source code located here: https://github.com/MagMillen-Dutka/UBHM-01-HTML-Git-CSS-02-Challenge/blob/main/index.html
-Opening this file will allow the html & css code to be read and evaluated.
+From the repository in GitHub you will need to follow this route to install the code and associated files on your local computer:
+* Clone the repository.
+* Open the repository in your local CLI (Git Bash, as an example).
+* You can now amend and check the code.
+* To view, right click on the index.html file within a source code editor, and open in your choice of browser.
 
-```
-## Credits
-```
-n/a
-```
-## License
-```
-For licensing details please see "LICENSE" details within the repository.
+## Sources
+Mag Millen-Dutka [Github](https://github.com/MagMillen-Dutka)
 
-MIT License is used for this project.
-```
+## Links:
+
+Source Code on Github: [Here.](https://github.com/MagMillen-Dutka/SEO-Website-Development)
+
+## Screenshots:
+
+### Figure 1. 
+![main page](/assets/images/Screenshot1.jpg)
+
